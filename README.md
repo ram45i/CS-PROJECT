@@ -1,6 +1,5 @@
-# CS-PROJECT-BY-RAM-SARTHAK-TAHIR
+# CS-PROJECT
 Here is our computer science project 
-Made by - Gavesh , Sarthak , Tahir 
 # DOWNLOAD THE MODULES :-
 open terminal and paste the following commands :
 ```
