@@ -4,7 +4,7 @@ Made by - Gavesh , Sarthak , Tahir
 # DOWNLOAD THE MODULES :-
 open terminal and paste the following commands :
 ```
-sudo apt-get update
+sudo apt-get update && sudo apt-get upgrade
 ```
 ```
 sudo apt-get install python3-tk
